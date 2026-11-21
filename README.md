@@ -1,3 +1,4 @@
 # mahendra-demo
 This is my first repository
-Author-name Mahendra
+<br>
+Author - Mahendra
